@@ -14,5 +14,5 @@ Running program from command line:<br />
 CD yourself where the program script is, example below:<br />
 <b>cd C:\Users\Danijel\Desktop</b>.<br />
 and run the folowing command to startup the Django server:<br />
-<b>python  </b><br/>
+<b>python manage.py runserver</b><br/>
 
