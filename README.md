@@ -1,7 +1,7 @@
 # Dice rolling web interface
 
 <b>Python 2.7</b> is used for this implementation beacuse there was a problem running turtle animations with Python 3.6<br />
-Packages: <b>pandas</b>, <b>numpy</b>, <b>sklearn</b>, <b>xgboost</b>, <b>torch</b>, <b>seaborn</b>
+Packages: <b>numpy</b>
 
 In order to run program sucessfully, firstly create a separated env, for example:<br />
 <b>conda create -n dice_roller python=2.7</b> <br />
