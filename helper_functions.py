@@ -29,9 +29,3 @@ def random_binary_string():
             range_not_satisfied = False
     
     return binary
-
-
-if __name__ == "__main__":
-    print (random_dice_number())
-    binary_str = random_binary_string() 
-    print(binary_str) 
