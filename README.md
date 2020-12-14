@@ -11,8 +11,7 @@ Then install all needed modules using:<br />
 <b>pip install -r requirements.txt</b>
 
 Running program from command line:<br />
-CD yourself where the program script is, example below:<br />
-<b>cd C:\Users\Danijel\Desktop</b>.<br />
-and run the folowing command to startup the Django server:<br />
-<b>python  </b><br/>
+CD yourself to the root directory of this repo and run the folowing command to startup the Django server:<br />
+<b>python manage.py runserver</b><br/>
+Then visit this url: http://localhost:8000/ and enjoy playing!
 
