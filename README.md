@@ -1,6 +1,6 @@
 # Dice rolling web interface
 
-<b>Python 3.x</b> is used for implementation od dice rolling programme<br />
+<b>Python 3.x</b> is used for implementation of dice rolling programme<br />
 Packages: <b>Django</b>
 
 In order to run program sucessfully, firstly create a separated env, for example:<br />
