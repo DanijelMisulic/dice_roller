@@ -15,5 +15,5 @@ CD yourself to the root directory of this repo and run the folowing command to s
 <b>python manage.py runserver 0.0.0.0:8000</b><br/>
 Then visit this url: http://localhost:8000/ and enjoy playing!</br>
 
-This repo is equiped with unittests as well. Just navigate to the dice folder and run the following command:</br>
+This repo is equipped with unittests as well. Just navigate to the dice folder and run the following command:</br>
 <b>python -m unittest test_helper_functions</b>
