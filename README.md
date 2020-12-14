@@ -12,6 +12,6 @@ Then install all needed modules using:<br />
 
 Running program from command line:<br />
 CD yourself to the root directory of this repo and run the folowing command to startup the Django server:<br />
-<b>python manage.py runserver</b><br/>
+<b>python manage.py runserver 0.0.0.0:8000</b><br/>
 Then visit this url: http://localhost:8000/ and enjoy playing!
 
