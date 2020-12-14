@@ -13,5 +13,7 @@ Then install all needed modules using:<br />
 Running program from command line:<br />
 CD yourself to the root directory of this repo and run the folowing command to startup the Django server:<br />
 <b>python manage.py runserver 0.0.0.0:8000</b><br/>
-Then visit this url: http://localhost:8000/ and enjoy playing!
+Then visit this url: http://localhost:8000/ and enjoy playing!</br>
 
+This repo is equiped with unittests as well. Just navigate to the dice folder and run the following command:</br>
+<b>python -m unittest test_helper_functions</b>
