@@ -1,7 +1,7 @@
 # Dice rolling web interface
 
 <b>Python 3.x</b> is used for implementation od dice rolling programme<br />
-Packages: <b>numpy</b>
+Packages: <b>Django</b>
 
 In order to run program sucessfully, firstly create a separated env, for example:<br />
 <b>conda create -n dice_roller python=3.6</b> <br />
